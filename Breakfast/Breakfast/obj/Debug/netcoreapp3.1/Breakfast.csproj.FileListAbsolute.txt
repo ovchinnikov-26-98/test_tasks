@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\Breakfast.exe
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\Breakfast.deps.json
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\Breakfast.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\Breakfast.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\Breakfast.dll
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.1\Breakfast.pdb
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.dll
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.pdb
+C:\Users\Lenovo\source\repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.1\Breakfast.genruntimeconfig.cache
